@@ -1,7 +1,9 @@
 ## Bem-vindo ao meu perfil do GitHub! 👋
 
 <img src="banner.gif" width="325px" align="right" >
-
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" />
+</div>
 Sou um Analista e Desenvolvedor de sistemas apaixonado por tecnologia e pela comunidade de tecnologia. Com uma formação em Sistemas de Informação e pós-graduação em Engenharia de Software, tenho uma sólida base educacional e experiência em diversas áreas relacionadas ao desenvolvimento de software.
 
 Atualmente, atuo como Analista e Desenvolvedor na Plano Sistemas, onde tenho a oportunidade de colocar em prática meus conhecimentos e contribuir para o desenvolvimento de soluções inovadoras. Tenho uma abordagem orientada para resultados e sou um entusiasta em buscar novos conhecimentos, sempre buscando elevar meu nível de habilidades.
