@@ -3,6 +3,8 @@
 <img src="banner.gif" width="325px" align="right" >
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" />
+  <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)" alt="Twiter Badge" />
+  <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)" alt="YouTube Badge" />
 </div>
 Sou um Analista e Desenvolvedor de sistemas apaixonado por tecnologia e pela comunidade de tecnologia. Com uma formação em Sistemas de Informação e pós-graduação em Engenharia de Software, tenho uma sólida base educacional e experiência em diversas áreas relacionadas ao desenvolvimento de software.
 
