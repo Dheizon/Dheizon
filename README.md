@@ -22,8 +22,6 @@ Estou sempre aberto a colaborações e oportunidades de aprendizado. Sinta-se à
 
 Vamos codificar juntos e levar a tecnologia a um próximo nível! 🚀
 
----
-
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" title="dotnet" alt="dotnet" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
@@ -34,16 +32,10 @@ Vamos codificar juntos e levar a tecnologia a um próximo nível! 🚀
 </div>
 
 ---
-<table style="border: solid;">
-  <tr>
-    <td>
-      <img height="200em" aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheizon&show_icons=true&theme=bear&count_private=true" />
-    </td>
-    <td>
-      <img height="200em" aling="right" src="https://github-readme-stats.vercel.app/api?username=Dheizon&show_icons=true&show_icons=true&theme=bear&count_private=true" />
-    </td>
-  </tr>
- </table>
+<div align="center">
+    <img height="200em" aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheizon&show_icons=true&theme=bear&count_private=true" />    
+    <img height="200em" aling="right" src="https://github-readme-stats.vercel.app/api?username=Dheizon&show_icons=true&show_icons=true&theme=bear&count_private=true" />   
+ </div>
 
 
 <!--
