@@ -1,6 +1,6 @@
 ## Bem-vindo ao meu perfil do GitHub! 👋
 
-<img src="banner.gif" width="325px">
+<img src="banner.gif" width="325px" align="right" >
 
 Sou um Analista e Desenvolvedor de sistemas apaixonado por tecnologia e pela comunidade de tecnologia. Com uma formação em Sistemas de Informação e pós-graduação em Engenharia de Software, tenho uma sólida base educacional e experiência em diversas áreas relacionadas ao desenvolvimento de software.
 
@@ -15,8 +15,8 @@ Vamos codificar juntos e levar a tecnologia a um próximo nível! 🚀
 ---
 
 <div>
-  <img src="https://pt.wikipedia.org/wiki/Ficheiro:Microsoft_.NET_logo.svg" title="dotnet" alt="dotnet" width="40" height="40"/>&nbsp;
-  <img src="https://pt.wikipedia.org/wiki/Ficheiro:Angular_full_color_logo.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" title="dotnet" alt="dotnet" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://pt.wikipedia.org/wiki/Ficheiro:Typescript_logo_2020.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/690px-Microsoft_SQL_Server_Logo.svg.png?20100429075711" title="Sql Server" alt="SqlServer" width="40" height="40"/>&nbsp;
