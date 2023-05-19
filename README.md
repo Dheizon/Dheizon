@@ -34,7 +34,7 @@ Vamos codificar juntos e levar a tecnologia a um próximo nível! 🚀
 </div>
 
 ---
-<img height="200em" aling="left" src="data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheizon&show_icons=true&theme=bear&count_private=true" />
+<img height="200em" aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheizon&show_icons=true&theme=bear&count_private=true" />
 <img height="200em" aling="right" src="https://github-readme-stats.vercel.app/api?username=Dheizon&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 <!--
 **Dheizon/Dheizon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
